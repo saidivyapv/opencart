@@ -1,0 +1,54 @@
+13:24:10.879 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml"
+13:24:11.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml
+
+13:24:35.678 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml"
+13:24:35.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml
+
+13:25:20.761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml"
+13:25:21.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml
+
+13:25:26.255 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+13:25:26.255 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+13:25:26.704 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+13:25:26.936 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+13:25:26.940 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+13:25:27.626 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+13:26:44.528 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml"
+13:26:44.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml
+
+13:26:49.486 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+13:26:49.487 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+13:26:50.003 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+13:26:50.237 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+13:26:50.240 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+13:26:50.957 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+13:26:51.021 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+18:23:54.899 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\AppData\Local\Temp\testng-eclipse--1001212917\testng-customsuite.xml"
+18:23:55.138 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+18:23:55.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+18:23:55.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:23:55.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

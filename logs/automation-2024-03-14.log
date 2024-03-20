@@ -1,0 +1,63 @@
+15:17:44.421 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+15:17:44.496 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+18:22:19.583 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\groups.xml"
+18:22:19.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\groups.xml
+
+18:22:25.638 [main] INFO  testCases.TC_001_TestRegistration - Test case started
+18:22:25.638 [main] DEBUG testCases.TC_001_TestRegistration - logger.debug started
+18:22:26.596 [main] INFO  testCases.TC_001_TestRegistration - REgister link clicked
+18:22:26.607 [main] INFO  testCases.TC_001_TestRegistration - Entering details
+18:22:27.889 [main] INFO  testCases.TC_001_TestRegistration - Submitted form
+18:22:28.053 [main] INFO  testCases.TC_001_TestRegistration - Test case passed
+18:22:28.056 [main] DEBUG testCases.TC_001_TestRegistration - debug ended
+18:22:28.058 [main] INFO  testCases.TC_001_TestRegistration - Test case completed
+18:22:32.405 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+18:22:32.406 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+18:22:33.021 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+18:22:33.376 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+18:22:33.382 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+18:22:34.348 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+18:22:34.456 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:50:49.268 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml"
+21:50:49.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml
+
+21:50:54.789 [main] INFO  testCases.TC_001_TestRegistration - Test case started
+21:50:54.789 [main] DEBUG testCases.TC_001_TestRegistration - logger.debug started
+21:50:55.432 [main] INFO  testCases.TC_001_TestRegistration - REgister link clicked
+21:50:55.437 [main] INFO  testCases.TC_001_TestRegistration - Entering details
+21:50:56.606 [main] INFO  testCases.TC_001_TestRegistration - Submitted form
+21:50:56.658 [main] INFO  testCases.TC_001_TestRegistration - Test case passed
+21:50:56.661 [main] DEBUG testCases.TC_001_TestRegistration - debug ended
+21:50:56.661 [main] INFO  testCases.TC_001_TestRegistration - Test case completed
+21:51:03.594 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:51:03.594 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+21:51:03.692 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:51:03.926 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:51:03.926 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:51:04.883 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:51:04.947 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:52:34.848 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml"
+21:52:35.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\Mastertestng.xml
+
+21:52:40.327 [main] INFO  testCases.TC_001_TestRegistration - Test case started
+21:52:40.327 [main] DEBUG testCases.TC_001_TestRegistration - logger.debug started
+21:52:40.897 [main] INFO  testCases.TC_001_TestRegistration - REgister link clicked
+21:52:40.902 [main] INFO  testCases.TC_001_TestRegistration - Entering details
+21:52:42.030 [main] INFO  testCases.TC_001_TestRegistration - Submitted form
+21:52:42.077 [main] INFO  testCases.TC_001_TestRegistration - Test case passed
+21:52:42.078 [main] DEBUG testCases.TC_001_TestRegistration - debug ended
+21:52:42.079 [main] INFO  testCases.TC_001_TestRegistration - Test case completed
+21:52:45.702 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:52:45.706 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+21:52:45.798 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:52:46.044 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:52:46.047 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:52:46.700 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:52:46.763 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+18:26:05.160 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\groups.xml"
+18:26:05.525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\groups.xml
+

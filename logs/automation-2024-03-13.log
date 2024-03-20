@@ -1,0 +1,57 @@
+18:23:55.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.177 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:55.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:55.189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\AppData\Local\Temp\testng-eclipse--1001212917\testng-customsuite.xml
+
+18:23:55.208 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+18:23:55.380 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@751d3241: 52 ms
+18:23:55.486 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@31024624: 104 ms
+18:23:55.512 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@403132fc: 25 ms
+18:23:55.525 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2416a51: 13 ms
+18:23:55.532 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6fefce9e: 7 ms
+18:23:55.547 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@b672aa8: 15 ms
+18:23:55.547 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2fab4aff: 0 ms
+14:21:30.845 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\groups.xml"
+14:21:31.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\groups.xml
+
+14:22:25.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\groups.xml"
+14:22:25.600 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\groups.xml
+
+14:22:32.541 [main] INFO  testCases.TC_001_TestRegistration - Test case started
+14:22:32.541 [main] DEBUG testCases.TC_001_TestRegistration - logger.debug started
+14:22:33.258 [main] INFO  testCases.TC_001_TestRegistration - REgister link clicked
+14:22:33.266 [main] INFO  testCases.TC_001_TestRegistration - Entering details
+14:22:34.345 [main] INFO  testCases.TC_001_TestRegistration - Submitted form
+14:22:34.445 [main] INFO  testCases.TC_001_TestRegistration - Test case passed
+14:22:34.450 [main] DEBUG testCases.TC_001_TestRegistration - debug ended
+14:22:34.450 [main] INFO  testCases.TC_001_TestRegistration - Test case completed
+14:22:39.003 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+14:22:39.003 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+14:22:39.435 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+14:22:39.715 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+14:22:39.721 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+14:22:40.445 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+14:22:40.527 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:17:31.704 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Divya V\eclipse-workspace\opencart\groups.xml"
+15:17:31.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Divya V\eclipse-workspace\opencart\groups.xml
+
+15:17:36.398 [main] INFO  testCases.TC_001_TestRegistration - Test case started
+15:17:36.398 [main] DEBUG testCases.TC_001_TestRegistration - logger.debug started
+15:17:37.196 [main] INFO  testCases.TC_001_TestRegistration - REgister link clicked
+15:17:37.203 [main] INFO  testCases.TC_001_TestRegistration - Entering details
+15:17:38.216 [main] INFO  testCases.TC_001_TestRegistration - Submitted form
+15:17:38.278 [main] INFO  testCases.TC_001_TestRegistration - Test case passed
+15:17:38.281 [main] DEBUG testCases.TC_001_TestRegistration - debug ended
+15:17:38.281 [main] INFO  testCases.TC_001_TestRegistration - Test case completed
+15:17:42.898 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:17:42.898 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+15:17:43.306 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:17:43.548 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:17:43.550 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
